@@ -1,6 +1,6 @@
 # 🌟 TrueTasks
 
-An easily and porwerful personal tasks and routine manager.
+An easily and porwerful personal tasks and routine manager application.
 
 ## 📚 Table of Contents
 - [Installation](#🛠-installation)
